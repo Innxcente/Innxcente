@@ -26,7 +26,7 @@
   - C#
   - C
  
-  - learning
+- learning
    - HTML
    - JS
    - CSS
